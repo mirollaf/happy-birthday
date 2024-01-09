@@ -1,0 +1,6 @@
+function gotopeopleborntoday{
+
+}
+function gotoeventsoccuringtoday{
+
+}
